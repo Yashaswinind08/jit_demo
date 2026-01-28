@@ -1,3 +1,4 @@
 name: demo
 version: 1.0
-status:
+status:stable
+Description: starting of our journey."glad to have you here"
